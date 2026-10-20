@@ -1,0 +1,11 @@
+Label asli,Prediksi,Jumlah
+alami,pertanian_kecil,7
+pertanian_kecil,jalan,5
+alami,kebakaran,5
+selective_logging,pertanian_kecil,4
+kebakaran,pertanian_besar,4
+tambang,selective_logging,3
+pertanian_kecil,selective_logging,3
+pertanian_kecil,alami,3
+selective_logging,jalan,3
+pertanian_kecil,pertanian_besar,3
